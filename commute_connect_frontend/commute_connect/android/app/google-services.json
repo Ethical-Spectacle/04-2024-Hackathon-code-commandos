@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366649915062",
+    "project_id": "uber-4scv7o",
+    "storage_bucket": "uber-4scv7o.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366649915062:android:14c4ad83ef85cfc0425817",
+        "android_client_info": {
+          "package_name": "com.mycompany.commuteconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zkWSZIaCQ-xWxnuNvxfaQGOj0QI0Sk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
