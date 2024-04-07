@@ -16,7 +16,9 @@ def get_routes(request):
         data = json.loads(request.body)
         return route_service.get_routes(data.get('from_latitude', None), data.get('from_longitude', None)
                                         , data.get('to_latitude', None)
-                                        , data.get('to_longitude', None))
+                                        , data.get('to_longitude', None)
+                                        , data.get('arrival_time', None)
+                                        , data.get('departure_time', None))
 
 
 
