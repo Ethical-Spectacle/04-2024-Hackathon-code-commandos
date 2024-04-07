@@ -72,15 +72,6 @@ transit_ways = [
                 "dest_long": "-111.8308",
             },
             {
-                "mode": "Bus",
-                "waiting": 10,
-                "time": 32,
-                "source_lat": "33.4153",
-                "source_long": "-111.8308",
-                "dest_lat": "33.416892125662095",
-                "dest_long": "-111.68444429325882",
-            },
-            {
                 "mode": "CAB",
                 "waiting": 0,
                 "time": 16,
